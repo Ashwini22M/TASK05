@@ -39,4 +39,4 @@ The app is optimized for performance, mobile responsiveness, and cross-browser c
 **Ashwini Mishra**
 
 * Location: Motihari, Bihar, India
-* 
+  
